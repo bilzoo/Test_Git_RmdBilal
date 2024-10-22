@@ -1,6 +1,8 @@
 # Test_Git_RmdBilal :cat:
 test exercice introduction git
 
+:koala:
+
 
 Je teste l'ajout d'une ligne pour l'exercice 4
 
