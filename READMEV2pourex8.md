@@ -83,3 +83,7 @@ JR Pass : Utilisez le JR Pass pour les trajets longue distance en Shinkansen (To
 Hébergements : Privilégiez des ryokans avec onsens dans des villes comme Hakone, Kyoto, et Nagano pour une expérience relaxante.
 Onsen : Apportez toujours une petite serviette et suivez les règles d’étiquette (se laver avant d’entrer dans l'eau, ne pas plonger).
 Bagages : Utilisez les services de livraison de bagages (takkyubin) pour envoyer vos valises d’une ville à l’autre si nécessaire.
+
+
+
+Je rajoute une phrase comme demandé
