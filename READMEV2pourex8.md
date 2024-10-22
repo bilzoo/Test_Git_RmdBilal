@@ -4,8 +4,8 @@ test exercice introduction git
 
 Je teste l'ajout d'une ligne pour l'exercice 4
 
-le chêne un jour dit au roseau
-
+Le Chêne un jour dit au roseau :
+Vous avez bien sujet d'accuser la Nature
 
 
 
